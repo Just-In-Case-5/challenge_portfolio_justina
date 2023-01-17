@@ -8,11 +8,11 @@
 
 ##_Subtask 3_
 
-|=Jestem Justyna. Zupełnie zielona jeśli chodzi o testowanie ale tak już ze mna jest, że interesuje mnie to czego nie wiem. Podobnie jak z muzyką-najbardziej lubię te piosenki których jeszcze nie słyszałam ;)=|
+Jestem Justyna. Zupełnie zielona jeśli chodzi o testowanie ale tak już ze mna jest, że interesuje mnie to czego nie wiem. Podobnie jak z muzyką-najbardziej lubię te piosenki których jeszcze nie słyszałam ;)=|
 
-|=Challenge to sposób na pozanaie nieznanego tematu od ludzi dla których nie ma on już tajemnic, dodatkowo upakowanego w konkretne ramy czasowe - czyli nie ma odkładania kolejnych zadań na "święte nigdy". I jeszcze szansa na realny feedback z wykonanej pracy. Tak, on jest niedoceniany. Nic tak nie pomaga w rozwoju i uczeniu się jak rzetelna informacja zwrotna. I towarzystwo innych którzy zmagają się z tym samym. Serdeczne pozdrowienia dla reszty uczestników! ✋=|
+Challenge to sposób na poznanie nieznanej dziedziny IT od ludzi dla których nie ma on już tajemnic, dodatkowo upakowanego w konkretne ramy czasowe - czyli nie ma odkładania kolejnych zadań na "święte nigdy". I jeszcze szansa na realny feedback z wykonanej pracy. Tak, on jest niedoceniany. Nic tak nie pomaga w rozwoju i uczeniu się jak rzetelna informacja zwrotna. I towarzystwo innych którzy zmagają się z tym samym. Serdeczne pozdrowienia dla reszty uczestników! ✋
 
-*justyna*
+*Justyna*
 
 ##_Subtask 4_
 
