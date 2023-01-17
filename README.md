@@ -1,12 +1,12 @@
 # _Task1_
 
 
-##_Subtask 1_
+## _Subtask 1_
 
 ### 8 punktuff!
 
 
-##_Subtask 3_
+## _Subtask 3_
 
 Jestem Justyna. Zupełnie zielona jeśli chodzi o testowanie ale tak już ze mna jest, że interesuje mnie to czego nie wiem. Podobnie jak z muzyką-najbardziej lubię te piosenki których jeszcze nie słyszałam ;)=|
 
@@ -14,7 +14,7 @@ Challenge to sposób na poznanie nieznanej dziedziny IT od ludzi dla których ni
 
 *Justyna*
 
-##_Subtask 4_
+## _Subtask 4_
 
 |=Aplikacja do katalogowania, budowania bazy graczy i generowania zestawień z danymi ich dotyczącymi. Dane graczy można wprowadzic, wyfiltrować z kolekcji korzystając ze zdefiniowanych filtrów, pobrać jako plik csv lub wydrukować zestawenie graczy. Można wybrać dwa języki aplikacji: PL lub EN. Aplikacja mało intuicyjna. Po naciśnięciu "Gracze" nie ma możliwości doadania, bo ta funkcjonalnośc jest na kafeleu Linki pomocnicze.
 
