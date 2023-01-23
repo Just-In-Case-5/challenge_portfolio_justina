@@ -1,4 +1,4 @@
-# _Task1_
+# _TASK 1_
 
 
 ## _Subtask 1_
@@ -25,7 +25,7 @@ Formularz przepuszcza też błędy ortograficzne w wersji PL(np. bramkaż). Jeś
 Zakadka "Mecze" gracza a w niej pole "Czas gry" nie posiadają podanej wartości czasu (min, sekundy) tutaj równiez można wprowadzić absurdalne wartości liczbowe, łącznie z wartościami ujemnymi.
 
 
-# _Task2_
+# _TASK 2_
 
 ## _Subtask 1_
 https://docs.google.com/spreadsheets/d/1f72qDO182_lLk7hIoDhMc0Tv6HdtwNt1/edit?usp=share_link&ouid=106616749574152815046&rtpof=true&sd=true
@@ -36,4 +36,5 @@ https://docs.google.com/spreadsheets/d/1f72qDO182_lLk7hIoDhMc0Tv6HdtwNt1/edit?us
 ## _Subtask 3_
 Pytanie: Po co piszemy test case'y? 🤔
 Brzmi niemal filozoficznie.
+
 Może po to, by ci, których namiętnością życową jest rozbijanie rzeczywistości na atomy i kwanty oraz dzielenie przysłowiowego włosa na czworo mogli coś zrobić konstruktywnego i tę przypadłość zmonetyzować?😁
