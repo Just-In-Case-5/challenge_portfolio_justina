@@ -45,3 +45,12 @@ Może po to, by ci, których namiętnością życową jest rozbijanie rzeczywist
 * odnotowuje i strukturyzuje  pracę ludzi sprawdzających, zapobiegając chaosowi i dublowaniu roboty
 * ćwiczy umysł i rozwija spostrzegawczość - kreatywność, pomysłowość i ogląd z kilkunastu perspektyw jest jak siłka dla szarych komórek  💪👌
 
+# _TASK 3_
+
+## _Subtask 1_
+https://docs.google.com/spreadsheets/d/1GkYqLxLeyBXC8slCGNcE_Ck514n6FRVf/edit?usp=share_link&ouid=106616749574152815046&rtpof=true&sd=true
+
+## _Subtask 2_
+https://drive.google.com/drive/folders/1hs4lEfCSNKL5Hzz7mx4cb0egKOMgTWeC?usp=sharing
+
+## _Subtask 3_
