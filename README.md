@@ -48,9 +48,17 @@ Może po to, by ci, których namiętnością życową jest rozbijanie rzeczywist
 # _TASK 3_
 
 ## _Subtask 1_
-https://docs.google.com/spreadsheets/d/1GkYqLxLeyBXC8slCGNcE_Ck514n6FRVf/edit?usp=share_link&ouid=106616749574152815046&rtpof=true&sd=true
-
 ## _Subtask 2_
-https://drive.google.com/drive/folders/1hs4lEfCSNKL5Hzz7mx4cb0egKOMgTWeC?usp=sharing
+https://drive.google.com/drive/folders/1hs4lEfCSNKL5Hzz7mx4cb0egKOMgTWeC?usp=share_link
 
 ## _Subtask 3_
+https://docs.google.com/spreadsheets/d/1T7NBLdYONgJErvL7MQSemWFFm4QKAq-E/edit?usp=share_link&ouid=106616749574152815046&rtpof=true&sd=true
+
+
+# _TASK 4_
+
+## _Subtask 1_
+## _Subtask 2_
+
+
+
