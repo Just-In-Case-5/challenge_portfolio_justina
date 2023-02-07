@@ -83,7 +83,7 @@ Za krótko ją zanm, dodatkowo nie zrealizowałam żadnej transakcji więc mam z
 
 _5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?_
 
-* testowanie aplikacji mobilnej to testowanie jej zewnetrznej, 'przedniej' części czyli funkcjonalności interfejsu. Nie ma danych z części 'tylnej' czyli   funkcjonowania kodu (tutaj  nic się nie sprawdzi w Console 😕)
+* testowanie aplikacji mobilnej to testowanie jej zewnetrznej, 'przedniej' części czyli funkcjonalności interfejsu. Nie ma danych z części 'tylnej' czyli   funkcjonowania kodu i dialogowania między nią a serwerem (tutaj  nic się nie sprawdzi w Console 😕)
 * testowanie natywne ma dać obraz funkcjonalności aplikacji jaką będzie ona posiadać i udostepniać jej użytkownikom 
 * w zależności od urządzenia interfejs może się różnić, dziwnie rozjeżdzać, 
 * natyvne testowanie jest trudniejsze choćby przez fakt, że urzadzenia mają mniejszy wyświetlacz, a potrzeba na nim np. pisać dłuższy tekst.
