@@ -60,5 +60,12 @@ https://docs.google.com/spreadsheets/d/1T7NBLdYONgJErvL7MQSemWFFm4QKAq-E/edit?us
 ## _Subtask 1_
 ## _Subtask 2_
 
+https://drive.google.com/drive/folders/1rccPDQNFvVQVA6Am6YvIMXYAqDGbL0eV?usp=share_link
+
+## _Subtask 3_
+_1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?_
+
+Aplikacja pełni rolę serwisu z ogłoszeniami dotyczącymi sprzedaży, wymiany, wypożyczenia lub oddania towarów (ale nie tylko - zwierząt też). Zawiera również ogłoszenia dotyczące sprzedaży usług oraz ofert zatrudnienia.  Składa się z 17 kategorii tj Motoryzacja, Nieruchomości,Praca, Dom i Ogród, Elektronika, Moda, Rolnictwo, Zwierzęta, Dla dzieci, Sport i Hobby, Muzyka i Edukacja, Zdrowie i Uroda, Usługi i Firmy, Noclegi, Wypożyczalnia, Dla Ukrainy, Oddam za darmo. Aplikacja służy do przedstawiania oferty i kontaktowania ze sobą potencjalnych kontrahentów, zarówno B2C jak i C2
+
 
 
