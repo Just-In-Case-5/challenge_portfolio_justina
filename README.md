@@ -126,6 +126,7 @@ SELECT * FROM `customers` WHERE `customer_id` IN (2,4,6);
 
 
 _7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._
+
 SELECT * FROM `customers` WHERE `customer_id` IN (1,3,5);
 ![ad 7](https://user-images.githubusercontent.com/80905818/218803844-e75365f0-27f0-40a2-9959-b955ab7c72a5.png)
 
