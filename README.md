@@ -95,6 +95,10 @@ _5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a 
 
 _1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._
 
+SELECT * FROM `actors` ORDER BY `actors`.`surname` ASC
+![ad 1](https://user-images.githubusercontent.com/80905818/218777695-db262e33-af1c-4a6c-9674-e5837bb3143d.png)
+
+
 _2. Wyświetl film, który powstał w 2019 roku._
 
 _3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._
@@ -111,5 +115,5 @@ _8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyn
 
 _9. Wyświetl dane klienta, który nie ma podanego adresu email._
 
-10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._
+_10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._
 
