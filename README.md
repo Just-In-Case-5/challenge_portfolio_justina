@@ -77,7 +77,7 @@ _3. Czy według Ciebie aplikacja jest user friendly?_
 
 Tak, jest. Nie korzystałam wczesniej z tej aplikacji. To jest mój pierwszy kontakt i jestem mile zaskoczona. Jest uporządkowana i intuicyjna. Ma spokojną kolorystykę, ładny font. Nawigacja jest łatwa a ekrany nieprzeładowane, raczej idące w minimalizm. Ścieżki klarowne i logiczne, szczególnie się to przydało kiedy miałam po pierwszym kontakcie z aplikacją i klikaniu wszystkiego, na żywioł, zrekonstruować ścieżkę do błedów. 
 
-_4.Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?_
+_4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?_
 
 Za krótko ją zanm, dodatkowo nie zrealizowałam żadnej transakcji więc mam za mało doświadczenia jako realny użytkownik żeby poczuć czego mi w niej brakuje. Jak w każdej darmowej apce irytujące sa pojawiajace sie miedzy ofertami reklamy, ale rozumiem,że coś za coś.
 
@@ -88,4 +88,28 @@ _5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a 
 * w zależności od urządzenia interfejs może się różnić, dziwnie rozjeżdzać, 
 * natyvne testowanie jest trudniejsze choćby przez fakt, że urzadzenia mają mniejszy wyświetlacz, a potrzeba na nim np. pisać dłuższy tekst.
 
+
+# _TASK 5_
+
+## _Subtask 3_
+
+_1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname._
+
+_2. Wyświetl film, który powstał w 2019 roku._
+
+_3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem._
+
+_4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$._
+
+_5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN._
+
+_6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny._
+
+_7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN._
+
+_8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”._
+
+_9. Wyświetl dane klienta, który nie ma podanego adresu email._
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id._
 
